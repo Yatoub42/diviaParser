@@ -1,0 +1,27 @@
+{
+  "name": "diviaparser",
+  "version": "1.0.0",
+  "description": "Divia totem parser",
+  "main": "diviaParser.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node diviaparser.js --ligne 83 --arret 1216"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yatoub42/diviaParser.git"
+  },
+  "keywords": [
+    "divia"
+  ],
+  "author": "Yatoub42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yatoub42/diviaParser/issues"
+  },
+  "homepage": "https://github.com/Yatoub42/diviaParser#readme"
+}
